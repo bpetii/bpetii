@@ -40,6 +40,6 @@
 
 
 [linkedIn]: www.linkedin.com/in/péter-bíró-9828b81a0
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://www.instagram.com/bpetii/
 [facebook]: https://www.facebook.com/biro.peter.3/
 
