@@ -4,7 +4,7 @@
 
 - 🔭 I'm a master student at University of Oslo
 - 🌱 I’m currently learning everything 🤣
-- 👯 Besides my studies I'm currently creating my own projects
+- 👯 Besides my studies and work, I'm currently creating my own projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can fix my shoulder dislocation 🤣
 
