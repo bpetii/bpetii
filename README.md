@@ -1,16 +1,13 @@
 ### Hi there, I'm Peter 👋
 
-## I'm a Front End Engineer!
+## I'm a Full Stack Engineer!
 
-- 🔭 I'm a master student at University of Oslo
-- 🌱 I’m currently learning everything 🤣
-- 👯 Besides my studies and work, I'm currently creating my own projects
-- 🥅 2022/2023 Goals: Contribute more to Open Source projects
+A dedicated developer with a fervor for crafting exceptional web applications. My journey revolves around leveraging cutting-edge technologies to build seamless and intuitive user experiences.
 
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" color="white" />][facebook]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedIn]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
